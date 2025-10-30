@@ -1,0 +1,15 @@
+[submodule "microservices/inventory"]
+	path = microservices/inventory
+	url = https://github.com/CristianCMP/saga-orquestrado-inventory.git
+[submodule "microservices/orchestrator"]
+	path = microservices/orchestrator
+	url = https://github.com/CristianCMP/saga-orquestrado-orchestrator.git
+[submodule "microservices/order"]
+	path = microservices/order
+	url = https://github.com/CristianCMP/saga-orquestrado-order.git
+[submodule "microservices/payment"]
+	path = microservices/payment
+	url = https://github.com/CristianCMP/saga-orquestrado-payment.git
+[submodule "microservices/product-validation"]
+	path = microservices/product-validation
+	url = https://github.com/CristianCMP/saga-orquestrado-product-validation.git
